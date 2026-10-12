@@ -1,5 +1,5 @@
 #!/bin/bash
-# sysinfo.sh - system information report (enhanced: uptime, CPU load, logging)
+# sysinfo.sh - updated system information report (enhanced: uptime, CPU load, logging)
  
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOG_DIR="$SCRIPT_DIR/../logs"
